@@ -1,0 +1,8 @@
+"parameter","true_value","estimated_value","std_error","abs_diff"
+"Dermatologist-Recommended",0.79,0.88,0.0666,0.09
+"Luxury Heritage",0.46,0.6153,0.0676,0.155
+"Vitamin C",0.29,0.2723,0.0648,0.018
+"Peptide Complex",0.475,0.3053,0.0636,0.17
+"Airless Pump",0.32,0.376,0.052,0.056
+"Price (per EUR)",-0.0257,-0.0172,0.0011,0.009
+"None ASC",-0.92,-0.0466,0.1089,0.873
