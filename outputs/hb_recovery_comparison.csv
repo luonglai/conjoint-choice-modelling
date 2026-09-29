@@ -1,0 +1,8 @@
+"parameter","correlation_efficient","correlation_random","mean_abs_error_efficient","mean_abs_error_random","corr_change"
+"pos_derm",0.698,0.623,0.494,0.511,0.074
+"pos_luxury",0.638,0.602,0.469,0.471,0.036
+"ing_vitc",0.254,0.321,0.327,0.293,-0.066
+"ing_pept",0.466,0.444,0.397,0.386,0.021
+"fmt_pump",0.228,0.281,0.359,0.309,-0.053
+"price_eur",0.819,0.773,0.023,0.025,0.046
+"none_flag",0.104,0.278,0.711,0.892,-0.174

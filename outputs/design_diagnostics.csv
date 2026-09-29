@@ -1,0 +1,8 @@
+"parameter","predicted_se_random","predicted_se_efficient","se_ratio_efficient_vs_random"
+"pos_derm",0.0653,0.0565,0.864
+"pos_luxury",0.065,0.06,0.924
+"ing_vitc",0.0642,0.0565,0.881
+"ing_pept",0.0632,0.0561,0.887
+"fmt_pump",0.0516,0.0448,0.868
+"price_eur",0.0011,0.001,0.876
+"none_flag",0.1072,0.083,0.774
