@@ -1,8 +1,0 @@
-"parameter","true_population","clogit_aggregate","hb_population_mean"
-"Dermatologist-Recommended",0.79,0.88,1.1127
-"Luxury Heritage",0.46,0.6153,0.6986
-"Vitamin C",0.29,0.2723,0.3566
-"Peptide Complex",0.475,0.3053,0.4116
-"Airless Pump",0.32,0.376,0.4594
-"Price (per EUR)",-0.0257,-0.0172,-0.0422
-"None ASC",-0.92,-0.0466,-1.9049
